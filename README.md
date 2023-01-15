@@ -2,9 +2,9 @@
 Showcase of past works in Ngee Ann Polytechnic
 
 Acryonyms: Jupyter Notebook
-1. Data Discovery & Visualisation (DDV)
-2. Data Wrangling (DW)
-3. Machine Learning (ML)
+1. Data Discovery & Visualisation - Matplotlib, Pandas, Seaborn, numpy, etc (DDV)
+2. Data Wrangling - Feature Engineering, Sklearn, etc (DW)
+3. Machine Learning - sklearn.linear_model, plotly, etc (ML)
 4. Distributed Data Pipeline - Hadoop (DDP)
 
 Acroynoyms: Others
