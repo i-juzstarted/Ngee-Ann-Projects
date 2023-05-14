@@ -9,7 +9,7 @@ Acryonyms: Jupyter Notebook
 
 Acroynoyms: Others
 1. Databases - SQL (DB)
-2. Prgoramming 1 - Python (PRG1)
+2. Programming 1 - Python (PRG1)
 3. Programming 2 - C# (PRG2)
 4. Design Principle - Adobe Illustrator & Photoshop (DP)
 5. Customer Experience Mangement - Salesforce (CXM)
